@@ -18,6 +18,8 @@ const Navbar = () => {
             </Link>
             <Button
                 title="Sign In"
+                btnType="button"
+                containerStyles='text-primary-blue rounded-full bg-white shadow min-w-[130px]'
             />
         </nav>
     </header>
